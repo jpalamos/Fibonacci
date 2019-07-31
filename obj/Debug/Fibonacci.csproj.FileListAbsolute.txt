@@ -1,0 +1,7 @@
+D:\UPB\201902\Plataformas de prog empresarial\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\UPB\201902\Plataformas de prog empresarial\Fibonacci\bin\Debug\Fibonacci.exe
+D:\UPB\201902\Plataformas de prog empresarial\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\UPB\201902\Plataformas de prog empresarial\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+D:\UPB\201902\Plataformas de prog empresarial\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+D:\UPB\201902\Plataformas de prog empresarial\Fibonacci\obj\Debug\Fibonacci.exe
+D:\UPB\201902\Plataformas de prog empresarial\Fibonacci\obj\Debug\Fibonacci.pdb
